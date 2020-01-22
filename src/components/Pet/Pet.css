@@ -1,0 +1,6 @@
+.pet {
+    border-style: dashed;
+    border-width: 5px;
+    /* width: 500px; */
+    background-color: seashell;
+}
